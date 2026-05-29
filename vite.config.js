@@ -18,7 +18,7 @@ export default defineConfig({
   plugins: [
     react(),
     sitemapPlugin({
-      hostname: "https://gotype-alpha.vercel.app",
+      hostname: "https://gootypee.vercel.app",
       dynamicRoutes: [],
       outDir: "dist"
     })

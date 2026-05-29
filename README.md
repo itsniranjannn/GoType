@@ -18,7 +18,7 @@ typing test, WPM, accuracy, typing practice, speed test, multiple modes, leaderb
 
 ## Live Site
 
-https://gotype-alpha.vercel.app/
+https://gootypee.vercel.app/
 
 ## Development
 
@@ -35,4 +35,4 @@ npm run build
 
 ## Repository
 
-GitHub: https://github.com/itsniranjannn/typingmaster
+GitHub: https://gootypee.vercel.app/
