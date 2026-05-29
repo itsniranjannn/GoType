@@ -35,4 +35,4 @@ npm run build
 
 ## Repository
 
-GitHub: https://github.com/itsniranjannn/typingmaster
+GitHub: https://gootypee.vercel.app/
